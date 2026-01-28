@@ -98,6 +98,8 @@ This lab demonstrates the process of provisioning a new user account in **Active
 ---
 
 ### 6. Enable the Account
+![image alt](https://github.com/glenpagesr-dev/Active-Directory-User-Provisioning-Lab/blob/95dc448c8c47da63325cc8638571b1f52ac38df8/enable%20account.png)
+
 
 * Ensure the account is enabled if onboarding is complete.
 * Confirm account status in ADUC.
