@@ -46,7 +46,7 @@ This lab demonstrates the process of provisioning a new user account in **Active
 ---
 
 ### 2. Create the User Account
-
+![image alt](https://github.com/glenpagesr-dev/Active-Directory-User-Provisioning-Lab/blob/d4ebb43038a1f6cfdd23d1da8c9070d96c3061d9/create%20user.png)
 * Right-click the OU → **New → User**
 * Enter the following:
 
