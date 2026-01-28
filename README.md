@@ -1,9 +1,8 @@
 <h1> Watch me build the Lab here
 
  https://www.loom.com/share/5b8db4e5b6f341aabb33eeab9261b53f
-# Active Directory User Provisioning Lab
+# Active Directory User Provisioning Lab 
 A hands-on Lab demonstrating the setup and configuration of Provisioning a new user
-
 
 ## Overview
 
