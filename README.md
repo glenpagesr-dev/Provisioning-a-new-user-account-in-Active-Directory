@@ -58,6 +58,7 @@ This lab demonstrates the process of provisioning a new user account in **Active
 ---
 
 ### 3. Populate User Attributes
+![image alt](https://github.com/glenpagesr-dev/Active-Directory-User-Provisioning-Lab/blob/f13e540e41c0644c1be12e044d071ce7ccd5b21f/user%20attributes.png)
 
 * Open User Properties and configure:
 
