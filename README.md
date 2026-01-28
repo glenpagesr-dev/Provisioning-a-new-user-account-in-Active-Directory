@@ -86,6 +86,8 @@ This lab demonstrates the process of provisioning a new user account in **Active
 ---
 
 ### 5. Configure Initial Password Settings
+![image alt](https://github.com/glenpagesr-dev/Active-Directory-User-Provisioning-Lab/blob/1eee61db2aa9e9c56c686d891ec08f1eae43273d/configure%20password.png)
+
 
 * Assign a temporary password that meets domain policy.
 * Select:
